@@ -16,6 +16,4 @@ else {
     return false
 }
     }
-    console.log(divide(45))
-    var anotherbigNumber = BigInt("90071992547409925");
-    console.log(anotherbigNumber)
+   
